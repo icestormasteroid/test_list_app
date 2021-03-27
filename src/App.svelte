@@ -2,10 +2,6 @@
 	import Todos from './Todos.svelte'
 </script>
 
-<svelte:head>
-  <script src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-</svelte:head>
-
 <main>
 	<h1>My Basic To-Do List!</h1>
 	<Todos />
