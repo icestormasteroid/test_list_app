@@ -3,11 +3,6 @@
 </script>
 
 <svelte:head>
-  <link
-    rel="stylesheet"
-    type="text/css"
-    href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"
-  />
   <script src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </svelte:head>
 
