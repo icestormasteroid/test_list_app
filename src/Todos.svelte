@@ -1,7 +1,4 @@
 <script>
-import { text } from "svelte/internal";
-
-import App from "./App.svelte";
 import { slide } from 'svelte/transition';
 
     let todoItem = '';
